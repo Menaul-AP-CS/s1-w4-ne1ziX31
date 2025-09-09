@@ -3,7 +3,7 @@ public class TestingMain {
         
         // Step 0: Declare a String object with the value "Hello World"
         // You can name the reference anything you want
-
+         String r1 = "Hi";
 
 
         // Step 1: Call length()
